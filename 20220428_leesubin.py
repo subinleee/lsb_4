@@ -1,6 +1,7 @@
 
 #1
 
+import as numpy as numpy
 ### 중복된 원소 제거
 #### 집합구하기
 
